@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 -->
 ## About Me
-- Junior Data Consultant
+-  Data Consultant
 -  How to reach me: LinkedIn @lukeharris0203
 -  Pronouns: He/Him
